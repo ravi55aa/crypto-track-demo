@@ -1,0 +1,17 @@
+Crypto\twit\node_modules
+node_modules/dist
+dist
+/node_modules
+
+/.logs
+
+./public
+public
+
+package.json
+package-lock.json
+
+vite.config.js
+postcss.config.js
+tailwind.config.js
+eslint.config.js

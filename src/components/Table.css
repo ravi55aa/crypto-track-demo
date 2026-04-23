@@ -1,0 +1,18 @@
+a {
+    padding: 0;
+    margin: 0;
+    border: none;
+    text-decoration: none;
+    display: inline;
+}
+
+
+tr:hover {
+    border: 5px #7c7e01 solid;
+    opacity: 0.6;
+}
+
+tr:hover img {
+    transition: transform  0.2s ease-in;
+    transform: translateY(-15%);
+}

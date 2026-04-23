@@ -1,0 +1,33 @@
+.slick-list {
+    padding-inline: 20px;
+}
+
+button {
+    opacity: 70;
+    color: transparent;
+    border: none;
+    outline: none;
+}
+
+button::before {
+    font-size: 50px !important;
+    background: #46114a;
+    border-radius: 200px;
+}
+
+.slick-arrow {
+    top: 30;
+    position: absolute;
+    height: 50px;
+    width: 50px;
+}
+
+.slick-prev {
+    left: -75px;
+    color: #fdce76;
+}
+
+.slick-next {
+    right: -75px;
+    color: #fdce76;
+}
